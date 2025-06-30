@@ -1,6 +1,6 @@
 # 🍔 FoodiFast – Online Food Delivery Application
 
-**FoodiFast** is a modern full-stack food delivery web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed with simplicity and speed in mind, it offers users an intuitive interface to explore, select, and order food online. While it draws inspiration from platforms like **Swiggy** and **Zomato**, it introduces a unique touch with its own design and integrated payment flow via **Stripe**.
+**FoodiFast** is a modern full-stack food delivery web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed with simplicity and speed in mind, it offers users an intuitive interface to explore, select, and order food online. While it draws inspiration from platforms like **Swiggy** and **Zomato**, it introduces a unique touch with its own design and integrated payment flow via **Razorpay**.
 
 ---
 
@@ -15,7 +15,7 @@
 FoodiFast enables users to:
 - Browse food items by category
 - Add items to cart
-- Make secure payments via Stripe
+- Make secure payments via Razorpay
 - View order success page
 
 The system also includes an **Admin Dashboard** to manage food items.
@@ -89,7 +89,7 @@ FoodiFast/
 - **Frontend**: React.js, **Pure CSS**
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Atlas)
-- **Payment Integration**: Stripe
+- **Payment Integration**: Razorpay
 - **API Testing**: Postman (optional)
 - **Deployment (Planned)**: Vercel (Frontend), Render/Heroku (Backend)
 
@@ -100,7 +100,7 @@ FoodiFast/
 - 🔍 Browse food items by category
 - 🛒 Add and remove items from cart
 - 👤 User authentication (login/signup)
-- 💳 **Stripe-based payment gateway**
+- 💳 **Razorpay-based payment gateway**
 - 📦 Order confirmation flow with success screen
 - 🌐 Fully responsive design across all devices
 
