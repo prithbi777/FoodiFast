@@ -74,13 +74,12 @@ FoodiFast/
 
 ## 📸 Screenshots
 
-> Replace these with your actual image links.
-
 ![Homepage](screenshots/homepage.png)
 ![Menu](screenshots/menu.png)
 ![Cart](screenshots/cart.png)
 ![Payment](screenshots/payment.png)
 ![Success](screenshots/success.png)
+![Admin](screenshots/admin.png)
 
 ---
 
