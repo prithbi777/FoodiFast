@@ -8,7 +8,7 @@ const StoreContextProvider = (props) => {
   const [food_list, setFoodList] = useState([]);
   const [token, setToken] = useState("");
   const [user, setUser] = useState(null); // ✅ Added for user context
-  const url = "http://localhost:4000";
+  const url = "https://foodifast-backend.onrender.com";
 
   // ✅ Fetch food items
   const fetchFoodList = async () => {
