@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-> Coming soon on [Vercel](https://vercel.com/)
+> CHECK OUT HERE: https://foodifast-frontend.onrender.com/
 
 ---
 
@@ -90,7 +90,7 @@ FoodiFast/
 - **Database**: MongoDB (Atlas)
 - **Payment Integration**: Razorpay
 - **API Testing**: Postman (optional)
-- **Deployment (Planned)**: Vercel (Frontend), Render/Heroku (Backend)
+- **Deployment**: Render (Frontend), Render (Backend)
 
 ---
 
