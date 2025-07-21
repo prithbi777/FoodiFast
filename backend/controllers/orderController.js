@@ -9,7 +9,7 @@ const razorpay = new Razorpay({
     key_secret: process.env.RAZORPAY_SECRET,
 });
 
-const frontend_url = "http://localhost:5173";
+const frontend_url = "https://foodifast-frontend.onrender.com";
 
 // Place Order - Razorpay version
 const placeOrder = async (req, res) => {
